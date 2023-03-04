@@ -35,6 +35,11 @@ function App() {
             onChange={(e) => {
               setRoom(e.target.value);
             }}
+            onKeyDown={(e) => {
+              if (e.key === "Enter") {
+                joinRoom();
+              }
+            }}
           />
           <button onClick={joinRoom}>Join a Room</button>
         </div> )

@@ -90,6 +90,8 @@ body {
 .chat-window .chat-body .message-container::-webkit-scrollbar {
   display: none;
 }
+
+
 .chat-window .chat-body .message {
   height: auto;
   padding: 10px;
