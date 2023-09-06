@@ -1,6 +1,10 @@
 ### **Getting Started**
 
-First, you will need to fork the repository and clone it to your local machine.
+First get assigned a Issue or create a issue and get it assigned to yourself.
+Only the pull request from assigned person will be considered.
+
+Fork the repository and make changes as per the issue , if you have more ideas or changes we can discuss it or you can create a issue for the same.
+**Do not create repeated issue, check if the issue already exists**
 
 ### **Project Structure**
 
